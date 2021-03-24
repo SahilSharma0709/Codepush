@@ -20,7 +20,9 @@ const App = () => {
       installMode: CodePush.InstallMode.IMMEDIATE,
     });
   });
-  return <Text>Hey hey hey heyebjbdj sdcsdsdsd saksasa bssdjsdjs</Text>;
+  return (
+    <Text>Hey hey hey heyebjbdj sdcsdsdsd saksasa bssdjsdjs aaaaaaaaaaa</Text>
+  );
 };
 let Code_Push_Options = {
   checkFrequency: CodePush.CheckFrequency.ON_APP_START,
